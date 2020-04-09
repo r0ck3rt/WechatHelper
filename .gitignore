@@ -6,6 +6,7 @@
 Migrations/
 *.db-shm
 *.db-wal
+Wechat.Protocol/
 
 # User-specific files
 *.rsuser

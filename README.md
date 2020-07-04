@@ -14,7 +14,7 @@ ipad协议提供web服务，提供源码部署服务<br/>
 功能太多，最近也比较忙，所以更新可能会比较慢。
 ### 接口文档(服务器低配置，仅供测试用)
 
-<a href="http://39.105.46.42/swagger/index.html" target="_blank">http://chatools.top/swagger/index.html</a>
+<a href="http://49.234.86.244:8183/" target="_blank">http://49.234.86.244:8183/</a>
 
 ### 声明
 

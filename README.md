@@ -1,8 +1,7 @@
 # Ipad协议712
 
 ipad协议提供web服务，提供源码部署服务<br/>
-该代码为不同于市场的c#，重新优化了联系人、公众号、微信群列表，新增了保持登录心跳接口等
-
+github的代码为c#仅供参考；
 ### 目前主要功能：
 
 扫码登录，62数据登录等
@@ -20,5 +19,5 @@ ipad协议提供web服务，提供源码部署服务<br/>
 
 仅供自己学习研究使用，引起任何法律纠纷概不负责
 
-### 合作微信
+### 交流微信（golang版本）
  <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/1111.png" width = "350" height = "350" alt="" align=center />

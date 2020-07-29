@@ -11,13 +11,9 @@ github的代码为c#仅供参考；
 公众号相关操作等
 附件的人相关操作等
 功能太多，最近也比较忙，所以更新可能会比较慢。
-### 接口文档(服务器低配置，仅供测试用)
-
-<a href="http://49.234.86.244:8080/" target="_blank">http://49.234.86.244:8080/</a>
-
 ### 声明
 
 仅供自己学习研究使用，引起任何法律纠纷概不负责
 
-### 交流微信（golang版本）
+### 交流微信（golang,c#版本）
  <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/1111.png" width = "350" height = "350" alt="" align=center />

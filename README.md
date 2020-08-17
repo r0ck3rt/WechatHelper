@@ -1,7 +1,7 @@
 # Ipad协议712
 
 ipad协议提供web服务<br/>
-核心商用java源码：接口地址：http://www.docway.net/project/1XatfNIoYvx/1Xatq9sP3jM
+核心java源码：接口地址：http://www.docway.net/project/1XatfNIoYvx/1Xatq9sP3jM
 ### 目前主要功能：
 
 扫码登录等

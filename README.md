@@ -8,4 +8,4 @@
 java调用源码合作（请注明来意）：
 
 微信号：
-![image](https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WechatIMG56.jpeg)
+<img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WechatIMG56.jpeg" />

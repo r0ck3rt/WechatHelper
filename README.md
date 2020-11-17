@@ -7,4 +7,5 @@
 
 java调用源码合作（请注明来意）：
 
-企鹅号：962738330
+微信：
+<img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WechatIMG56.jpeg" />

@@ -7,4 +7,9 @@
 
 java调用源码合作（请注明来意）：
 
+首先联系管理员获取 token（设备ID）来访问系统，一个 token 对应一个微信号在线
+
+api example：
+`curl -XGET --header 'Authorization:Bearer abcderfffaasas' 'http://115.159.122.220:9002/v1/bot/getqrcode'`
+
 qq群：792872188

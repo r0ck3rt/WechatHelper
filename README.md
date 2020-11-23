@@ -14,4 +14,4 @@ API example:
 curl -XGET --header 'Authorization:Bearer abcderfffaasas' 'http://115.159.122.220:9002/v1/bot/getqrcode'
 
 微信:<br/>
-<img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WechatIMG56.jpeg" width=200 height=250 />
+<img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WechatIMG56.jpeg" width=200 height=200 />

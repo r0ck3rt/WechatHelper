@@ -15,3 +15,4 @@ curl -XGET --header 'Authorization:Bearer abcderfffaasas' 'http://115.159.122.22
 
 微信:<br/>
 <img src="http://qj6dd04ur.hd-bkt.clouddn.com/WechatIMG56.jpeg" width=200 height=200 />
+![image](http://qj6dd04ur.hd-bkt.clouddn.com/WechatIMG56.jpeg)

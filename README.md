@@ -2,16 +2,13 @@
 
 仓库仅为示例代码，仅供参考学习
 
- 产品介绍：
-  社群系统：http://www.hutusheng.com/
-
 java调用源码合作（请注明来意）：
 
 首先联系管理员获取 token（设备ID）来访问API，一个 token(设备ID) 对应一个微信号在线
 
 API example:
 
-curl -XGET --header 'Authorization:Bearer abcderfffaasas' 'http://115.159.122.220:9002/v1/bot/getqrcode'
+curl -XGET --header 'Authorization:Bearer abcderfffaasas' '/v1/bot/getqrcode'
 
 合作微信:<br/>
 <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WX20201125-122159.png" width=200 height=200 />

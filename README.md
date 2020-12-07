@@ -10,7 +10,6 @@ API example:
 
 curl -XGET --header 'Authorization:Bearer abcderfffaasas' '/v1/bot/getqrcode'
 
+qq群:792872188<br/>
 合作微信:nwangnan<br/>
-合作qq:962738330<br/>
-
 <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WX20201125-122159.png" width=100 height=100 />

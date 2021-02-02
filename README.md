@@ -10,3 +10,4 @@ API example:
 curl -XGET --header 'Authorization:Bearer abcderfffaasas' '/v1/bot/getqrcode'<br/>
 java调用源码合作（请注明来意）：
 合作微信:nwangnan<br/>
+qq群：792872188

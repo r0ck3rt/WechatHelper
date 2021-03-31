@@ -4,7 +4,6 @@
 
 
 首先联系管理员获取 token（设备ID）来访问API，一个 token(设备ID) 对应一个微信号在线<br/>
-http://www.hutusheng.com/<br/>
 java调用源码合作（请注明来意）：<br/>
 合作微信:nwangnan<br/>
 

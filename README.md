@@ -8,9 +8,9 @@
 .Use your mobile phone to scan the above qr code and confirm to login<br/>
 .Visit /login/check to check and get your wechat information
 
-<h1>Notice</h1>
-.If you are offline ,you can call /login/auto to relogin wechat.
+<h1>To-do List</h1>
+.SLOC: Source Lines Of Code
 
-<h1>consulting</h1>：<br/>
+<h1>Join Us</h1>：<br/>
 <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WX20201125-122159.png" width=200 height=200 />
 

@@ -8,8 +8,7 @@
 .Use your mobile phone to scan the above qr code and confirm to login
 .Visit /login/check to check and get your wechat information
 
-<h1>Notice<h1>
-.YOUR_TOKEN
+<h1>Notice</h1>
 .If you are offline ,you can call /login/auto to relogin wechat.
 
 <h1>consulting</h1>：<br/>

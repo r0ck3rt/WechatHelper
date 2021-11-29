@@ -12,5 +12,4 @@
 .SLOC: Source Lines Of Code
 
 <h1>Join Us</h1>：<br/>
-<img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/WX20201125-122159.png" height=200 wight=200/>
 just scan the following QR Code in WeChat with secret code go wechaty, join our Wechaty Go Developers' Home
